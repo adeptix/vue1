@@ -1,12 +1,13 @@
 // тип операции
 export const finType = {
-    PLUS : "plus",
-    MINUS : "minus",
+    PLUS: "plus",
+    MINUS: "minus",
 }
 
 // категория трат
-export const category = {
-    FOOD : "Еда",
-    CLOTHES : "Одежда",
-    TRANSPORT: "Транспорт"
+export const finCategory = {
+    BASE: "Общее",
+    FOOD: "Еда",
+    CLOTHES: "Одежда",
+    TRANSPORT: "Транспорт",
 }
